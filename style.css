@@ -1,0 +1,17 @@
+body{
+    background-color: #afe;
+}
+.he1{
+    display: flex;
+    justify-content:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.te{
+    margin-top: 100px;
+    margin-left: 520px;
+}
+.te1{
+    margin-top: 100px;
+    margin-left: 520px;
+}
